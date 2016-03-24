@@ -1,0 +1,18 @@
+{
+  "name": "spring",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgronKabashi/spring.git"
+  },
+  "keywords": [
+    "spring"
+  ],
+  "author": "Agron Kabashi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgronKabashi/spring/issues"
+  }
+}
