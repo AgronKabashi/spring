@@ -1,6 +1,6 @@
 # spring
 spring aims to aid in use cases where you have a value that you want to 
-decrease but don't want to take into consideration if the value is negative or not.
+lerp towards 0.
 
 ## Usage
 ```
